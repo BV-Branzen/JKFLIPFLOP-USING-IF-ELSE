@@ -47,8 +47,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 /* write all the steps invloved */
 
 ~~~
-Developed by: Bala Surya S
-RegisterNumber: 212225100003
+Developed by: Branzen B V
+RegisterNumber: 212225100005
 ~~~
 
 **PROGRAM**
